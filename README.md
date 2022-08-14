@@ -1,4 +1,4 @@
-# Fancy-8-Queens
+# 8-Queens
 
 The objective of this project:
 
